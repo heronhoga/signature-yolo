@@ -1,0 +1,4 @@
+train: ./yolo-signature-detect/dataset/train/images/
+val: ./yolo-signature-detect/dataset/valid/images/
+nc: 1
+names: ['signature']
